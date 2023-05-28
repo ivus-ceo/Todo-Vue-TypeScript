@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body,
+body::before,
+body::after {
+  margin: 0;
+}
+
+body {
+  color: #fff;
+  background-color: black;
+}
